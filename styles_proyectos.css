@@ -1,0 +1,119 @@
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f0f2f5;
+    color: #333;
+    margin: 0;
+    padding: 20px;
+    line-height: 1.6;
+}
+#titulo {
+    color: #2c3e50;
+    text-align: center;
+    margin-bottom: 30px;
+    font-size: 2.5em;
+    text-shadow: 1px 1px 2px rgba(0,0,0,0.1);
+    padding-bottom: 10px;
+    border-bottom: 3px solid #3498db;
+}
+#seleccionar_proyecto {
+    max-width: 1000px;
+    margin: 0 auto;
+    background-color: white;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+}
+.subtitulo {
+    color: #3498db;
+    text-align: center;
+    margin-bottom: 20px;
+}
+#proyectoss {
+    font-weight: bold;
+    font-size: 1.2em;
+    margin-bottom: 20px;
+    color: #2c3e50;
+    text-align: center;
+}
+.Proyectos {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+input[type="radio"] {
+    display: none;
+}
+input[type="radio"] + label {
+    display: block;
+    padding: 20px;
+    border: 2px solid #ddd;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    background-color: #f9f9f9;
+}
+input[type="radio"]:checked + label {
+    border-color: #3498db;
+    background-color: #e8f4fc;
+    box-shadow: 0 0 10px rgba(52, 152, 219, 0.3);
+}
+#titulos {
+    font-size: 1.3em;
+    color: #2c3e50;
+    margin-bottom: 5px;
+}
+#titulos strong {
+    color: #3498db;
+}
+#titulos em {
+    font-style: normal;
+    color: #e74c3c;
+    margin-left: 10px;
+}
+img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 5px;
+    margin-top: 15px;
+    border: 1px solid #eee;
+    transition: transform 0.3s ease;
+}
+input[type="radio"]:checked + label img {
+    transform: scale(1.02);
+    box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+}
+#boton-proyectos {
+    display: block;
+    width: 200px;
+    padding: 12px;
+    margin: 30px auto 0;
+    background-color: #3498db;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 1.1em;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+#boton-proyectos:hover {
+    background-color: #2980b9;
+}
+input[type="radio"] + label:hover {
+    border-color: #3498db;
+    transform: translateY(-3px);
+    box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+}
+@media (max-width: 768px) {
+    #titulo {
+        font-size: 1.8em;
+    }
+    
+    #seleccionar_proyecto {
+        padding: 15px;
+    }
+    
+    input[type="radio"] + label {
+        padding: 15px;
+    }
+}
