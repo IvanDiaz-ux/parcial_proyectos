@@ -83,7 +83,7 @@ input[type="radio"]:checked + label img {
     transform: scale(1.02);
     box-shadow: 0 5px 15px rgba(0,0,0,0.1);
 }
-#boton-proyectos {
+html#boton-devolver {
     display: block;
     width: 200px;
     padding: 12px;
