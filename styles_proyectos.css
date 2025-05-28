@@ -117,3 +117,205 @@ input[type="radio"] + label:hover {
         padding: 15px;
     }
 }
+/* primer proyecto */
+.proyecto-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    background: white;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+}
+
+#titulo {
+    color: #2c3e50;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+#subtitulo {
+    color: #3498db;
+    text-align: center;
+    margin-top: 0;
+    font-size: 2em;
+}
+
+.institucion {
+    text-align: center;
+    color: #7f8c8d;
+    font-style: italic;
+    margin-bottom: 40px;
+}
+
+/* Contenido del proyecto */
+.proyecto-content {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+    margin-bottom: 40px;
+}
+
+.imagen-proyecto {
+    flex: 1;
+    min-width: 300px;
+}
+
+.imagen-proyecto img {
+    width: 100%;
+    height: 325px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
+}
+
+.imagen-proyecto img:hover {
+    transform: scale(1.02);
+}
+
+.descripcion-proyecto {
+    flex: 2;
+    min-width: 300px;
+}
+
+.descripcion-proyecto h2 {
+    color: #2c3e50;
+    border-bottom: 2px solid #3498db;
+    padding-bottom: 10px;
+    margin-top: 0;
+}
+
+.descripcion-proyecto ul {
+    padding-left: 20px;
+}
+
+.descripcion-proyecto li {
+    margin-bottom: 10px;
+}
+
+/* Sección de calificación */
+.calificacion-section {
+    background: #f8f9fa;
+    padding: 25px;
+    border-radius: 8px;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+.calificacion-section h3 {
+    margin-top: 0;
+    color: #2c3e50;
+}
+
+.rating {
+    display: inline-block;
+    margin: 20px 0;
+}
+
+.rating input {
+    display: none;
+}
+
+.rating label {
+    float: right;
+    font-size: 30px;
+    color: #ddd;
+    margin: 0 5px;
+    cursor: pointer;
+    transition: color 0.2s;
+}
+
+.rating input:checked ~ label,
+.rating label:hover,
+.rating label:hover ~ label {
+    color: #f1c40f;
+}
+
+.rating input:checked + label:hover,
+.rating input:checked ~ label:hover,
+.rating input:checked ~ label:hover ~ label,
+.rating label:hover ~ input:checked ~ label {
+    color: #f1c40f;
+}
+
+#enviar-calificacion {
+    background: #3498db;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background 0.3s;
+}
+
+#enviar-calificacion:hover {
+    background: #2980b9;
+}
+
+/* Botón volver */
+#boton-devolver {
+    display: block;
+    margin: 0 auto;
+    background: #e74c3c;
+    color: white;
+    border: none;
+    padding: 12px 25px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background 0.3s;
+}
+
+#boton-devolver:hover {
+    background: #c0392b;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+    .proyecto-content {
+        flex-direction: column;
+    }
+    
+    .imagen-proyecto, .descripcion-proyecto {
+        flex: none;
+        width: 100%;
+    }
+    
+    .rating label {
+        font-size: 24px;
+    }
+}
+/* Estilos del modal */
+    .modal {
+      display: none;
+      position: fixed;
+      z-index: 1;
+      left: 0;
+      top: 0;
+      width: 100%;
+      height: 100%;
+      background-color: rgba(0, 0, 0, 0.5);
+    }
+
+    .modal-content {
+      background-color: white;
+      margin: 15% auto;
+      padding: 20px;
+      border-radius: 10px;
+      width: 80%;
+      max-width: 400px;
+      box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+      text-align: center;
+    }
+
+    .close {
+      color: #aaa;
+      float: right;
+      font-size: 24px;
+      font-weight: bold;
+      cursor: pointer;
+    }
+
+    .close:hover {
+      color: black;
+    }
