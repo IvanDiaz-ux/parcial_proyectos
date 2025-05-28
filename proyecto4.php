@@ -22,8 +22,8 @@
                 <h2>Descripción del Proyecto</h2>
                 <p>Los debates en torno a la Inteligencia Artificial (IA) son complejos y multifacéticos, 
                   reflejando tanto el entusiasmo por su potencial transformador como la preocupación por sus riesgos 
-                  éticos, sociale, de salud, empleo, etc. A medida que la IA avanza a un ritmo vertiginoso y se integra cada 
-                  vez más en nuestra vida cotidiana, estos debates se vuelven más urgentes y relevantes. y con la opinion de un profesor, 3 estuduantes y un egresado
+                  éticos, sociales, de salud, empleo, etc. A medida que la IA avanza a un ritmo vertiginoso y se integra cada 
+                  vez más en nuestra vida cotidiana, estos debates se vuelven más urgentes y relevantes. y con la opinion de un profesor, tres estudiantes y un egresado
                   de la universidad, hace mas interesante el debate.</p>
                 
                     

@@ -15,7 +15,7 @@
                <div id="item1">
                   <input type="radio" name="proyecto" id="proyecto1" onclick="location.href='proyecto1.html'"/>
                   <label class="Proyectos" for="proyecto1">
-                 <p id="titulos"><strong> 1,Integracion con IA-RED</strong> </p>
+                 <p id="titulos"><strong> 1.Integracion con IA-RED</strong> </p>
                  <p>IEEE Universidad de la Sabana</p>
                  <img src="fotosProyectos/1.JPG" alt="Not Found">
                   </label><br>

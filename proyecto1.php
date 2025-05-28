@@ -20,22 +20,22 @@
             
             <div class="descripcion-proyecto">
                 <h2>Descripción de la charla</h2>
-                <p> La "Integracion con IA-RED" es similar a instruir a una computadora para que razone
+                <p> La <b>"Integracion con IA-RED"</b> es similar a instruir a una computadora para que razone
                     y adquiera conocimiento mediante entidades conocidas como Redes Neuronales Artificiales
                     (RNA), que actúan como cerebros digitales. Lo fascinante es que, en lugar de mantener la 
                     IA y las redes separadas, la combinación permite que colaboren, lo que hace que la IA
                     sea considerablemente más astuta y capaz de abordar desafíos más intrincados.</p>
                 <br>
                     
-                <p>En la  charla, exploraron cómo las Redes Neuronales Artificiales (RNA) aprenden a través de un proceso
+                <p>En la  charla, exploraron cómo las Redes Neuronales Artificiales <b>(RNA)</b> aprenden a través de un proceso
                     de entrenamiento y cómo sus capas interconectadas realizan cálculos matemáticos para producir los resultados deseados. 
                     Un ejemplo práctico de esto es el reconocimiento de números en imágenes. Aquí, la IA, utilizando una red neuronal, 
-                    aprende a identificar patrones específicos de píxeles y líneas en ciertas posiciones para determinar qué número 
+                    aprende a identificar <b>patrones específicos</b> de píxeles y líneas en ciertas posiciones para determinar qué número 
                     representan.
                     Para ilustrar este concepto, modificamos el popular juego "Dino Chrome" usando Java. 
                     Creamos una "familia" inicial de 100 "Dino Chromes". Estos Dinos deben evadir obstáculos en el suelo y en el aire, 
                     saltando o agachándose. Lo fascinante es que, a medida que las generaciones de Dinos "mueren" al chocar con los 
-                    obstáculos, las generaciones siguientes logran avanzar más lejos. Esto sucede porque, de alguna manera, "aprenden" 
+                    obstáculos, las generaciones siguientes logran avanzar más lejos. Esto sucede porque, <b>"aprenden"</b> 
                     de los errores de sus predecesores, optimizando sus estrategias de evasión con cada nueva iteración.
                     
                 </p>

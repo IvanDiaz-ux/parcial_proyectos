@@ -20,30 +20,32 @@
             
             <div class="descripcion-proyecto">
                 <h2>Descripción del Proyecto</h2>
-                <p>la Internet de las Cosas (IoT) emerge como una herramienta transformadora, especialmente en sistemas de cultivo de alta 
+                <p><b>Internet de las Cosas (IoT)</b> emerge como una herramienta transformadora, especialmente en sistemas de cultivo de alta 
                   eficiencia como la hidroponía. La combinación de IoT y la lechuga hidropónica no es solo una promesa futurista, 
                   sino una realidad que está redefiniendo cómo cultivamos.
-                  La tecnología IoT permite la conexión de dispositivos físicos a internet, lo que posibilita la 
-                  recopilación, transmisión y análisis de datos en tiempo real. En un cultivo de lechuga hidropónica, 
+                  La tecnología IoT permite la <b>conexión de dispositivos físicos a internet, lo que posibilita la 
+                  recopilación, transmisión y análisis de datos en tiempo real</b>. En un cultivo de lechuga hidropónica, 
                   esto se traduce en:</p> 
-                <p>Sensores Inteligentes:Temperatura del Agua y Ambiental: Sensores sumergibles y ambientales registran continuamente 
+                <p><b>Sensores Inteligentes:</b>      Temperatura del Agua y Ambiental:   Sensores sumergibles y ambientales registran continuamente 
                   las temperaturas críticas, como se ve en la pantalla de monitoreo de la imagen, asegurando que las lechugas se encuentren en su rango óptimo de crecimiento (generalmente entre 18°C y 24°C para el aire y entre 18°C y 22°C para el agua).
-                   Nivel y pH de la Solución Nutritiva: Sensores de nivel evitan que los depósitos de solución se queden vacíos, mientras que los sensores
+                   <br>
+                   <b>Nivel y pH de la Solución Nutritiva:</b> Sensores de nivel evitan que los depósitos de solución se queden vacíos, mientras que los sensores
                     de pH son cruciales para mantener la acidez adecuada (usualmente entre 5.5 y 6.5 para la lechuga), lo que garantiza la absorción eficiente de nutrientes.
-                   Conductividad Eléctrica (CE): Los sensores de CE miden la concentración de nutrientes en la solución. Si la CE es demasiado baja o alta,
+                   <br>
+                   <b>Conductividad Eléctrica (CE):</b> Los sensores de CE miden la concentración de nutrientes en la solución. Si la CE es demasiado baja o alta,
                     las lechugas no se desarrollarán correctamente.
                    Humedad Relativa y Luminosidad: En ambientes controlados (como invernaderos), sensores de humedad ambiental y luxómetros (medidores de luz) 
                    optimizan las condiciones de crecimiento, activando sistemas de ventilación o iluminación suplementaria si es necesario.
                     
                 </p>
-                <p>Actuadores y Automatización:
+                <p><b>Actuadores y Automatización:</b>
 
                  Los datos recopilados por los sensores no solo se muestran en un dashboard interactivo (como el de la imagen de monitoreo), 
                  sino que también activan automáticamente diversos actuadores. Por ejemplo, si el pH del agua es bajo, una bomba dosificará 
                  automáticamente una solución alcalina. Si la temperatura sube, se activarán ventiladores o sistemas de refrigeración.
                  Esto permite un control preciso y constante del ambiente de cultivo sin intervención humana constante, reduciendo errores y 
                  optimizando los recursos.</p>
-                <p>Análisis de Datos y Aprendizaje:
+                <p><b>Análisis de Datos y Aprendizaje:</b>
 
                  La recopilación continua de datos permite un análisis detallado de las condiciones óptimas de crecimiento. Con el tiempo, los sistemas
                   pueden "aprender" de los datos históricos para predecir necesidades futuras y ajustar los parámetros de forma aún más eficiente, 

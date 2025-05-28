@@ -20,25 +20,25 @@
             
             <div class="descripcion-proyecto">
                 <h2>Descripción del Proyecto</h2>
-                <p>En la imagen que muestra "PLAGAS DE IMPORTANCIA ECONÓMICA EN EL SISTEMA PRODUCTIVO DE LA PAPA", 
-                  se pueden observar varias etapas de vida de insectos y los daños que causan a la planta de papa. 
+                <p>En la imagen que se muestra son las <b>"PLAGAS  EN EL SISTEMA PRODUCTIVO DE LA PAPA"</b>, 
+                  se pueden observar varias etapas de vida de este insecto y los daños que causan a la planta de papa. 
                   Aunque no se identifica un único "gusano de la papa" como una especie específica, la vitrina parece 
                   presentar una colección de los principales insectos plaga que atacan la papa, mostrando sus distintas 
-                  fases (huevos, larvas, pupas, adultos) y, en algunos casos, el daño que provocan en la planta.</p>
+                  fases (huevos, larvas, pupas, adultos) y, en algunos casos, el daño que provocan en la planta y una descripcion de los mas comunes:</p>
                 <br>
                     
-                <p>Gorgojos de la papa: Como los del género Andean potato weevil (Andigena, Premnotrypes), 
+                <p><b>Gorgojos de la papa:</b> Como los del género Andean potato weevil (Andigena, Premnotrypes), 
                   que son plagas muy destructivas, cuyas larvas (gusanos) se alimentan de los tubérculos bajo tierra. 
-                  La imagen parece mostrar especímenes en frascos con etiquetas que podrían indicar estas especies.
+                  La imagen parece mostrar especímenes en frascos con etiquetas que indican estas especies.
                
                 </p>
                 
-                <p>Polillas de la papa: Como la polilla de la papa (Phthorimaea operculella), cuyas larvas también causan 
+                <p><b>Polillas de la papa:</b> Como la polilla de la papa (Phthorimaea operculella), cuyas larvas también causan 
                   daños significativos al barrenar los tubérculos y las hojas.
                
                 </p>
                 
-                <p>Escarabajos de la papa: Aunque no siempre se les llama "gusanos", las larvas de algunos 
+                <p><b>Escarabajos de la papa:</b> Aunque no siempre se les llama "gusanos", las larvas de algunos 
                   escarabajos también pueden ser plagas importantes.
                
                 </p>

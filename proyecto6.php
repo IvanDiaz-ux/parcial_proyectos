@@ -14,8 +14,8 @@
         
         <div class="proyecto-content">
             <div class="imagen-proyecto">
-                <img src="fotosProyectos/proyecto6.jpeg" alt="Imagen del proyecto IA-RED">
-                <img src="fotosProyectos/proyecto6.1.jpeg" alt="Imagen del proyecto IA-RED">
+                <img src="fotosProyectos/proyecto6.jpeg" alt="Imagen del proyecto ">
+                <img src="fotosProyectos/proyecto6.1.jpeg" alt="Imagen del proyecto ">
             </div>
             
             <div class="descripcion-proyecto">
@@ -28,8 +28,8 @@
                   (por ejemplo, una, dos o más horas).</p>
                 
                     
-                <p>Una vez seleccionado el espacio y el tiempo, el sistema integrará un módulo de pago seguro ya antes de reservar, permitiendo a los usuarios
-                   abonar el costo de la reserva directamente a través de la aplicación mediante diversas pasarelas de pago.
+                <p>Una vez seleccionado el espacio y el tiempo, el sistema integrará un módulo de pago seguro y de pago antes de reservar, permitiendo a los usuarios
+                   cancelar el costo de la reserva directamente a través de la aplicación.
                     
                 </p>
                 <p>Para el personal del Centro Comercial Fontanar, se desarrolla un dashboard de gestión que ofrecerá una visión completa 
@@ -40,11 +40,12 @@
                    si es necesario, gestionará cobros adicionales por excedentes.</p>
                 
                 
-                <p>El proyecto "SmartPark Fontanar" implementa un sistema web para reservar parqueadero por horas en el centro comercial,
+                <p>El proyecto <b>"Parking Lot"</b> implementa un sistema web para reservar parqueadero por horas en el centro comercial,
                    usando sensores y reconocimiento de placas. Esto elimina el estrés de buscar estacionamiento, 
                    optimiza el espacio del centro comercial y mejora la experiencia general del visitante, con un detalle que no me gusto ya que al tener que pagar si o si por horas
-                   al un cliente estar solo 15 min e irse, los 45 min restantes estan ocupados en ese espacio del parqueadero, sin un uso
+                   al un cliente estar solo 15 min e irse, los 45 min restantes estan ocupados en ese espacio del parqueadero, sin un uso, entonces se podrias reiniciar para que quede libre y algun otro cliente que lo necesite lo use independiente del tiempoque demore.
                 </p>
+              </div>
         </div>
         
         <div class="calificacion-section">
@@ -89,7 +90,7 @@
 
         </div>
         
-        <button id="boton-devolver" onclick="location.href='proyectos.html#item6'">VOLVER</button>
+      <button id="boton-devolver" onclick="location.href='proyectos.html#item6'">VOLVER</button>
     </div>
     
     
