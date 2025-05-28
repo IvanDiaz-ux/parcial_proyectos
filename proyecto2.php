@@ -93,7 +93,7 @@
 
         </div>
         
-        <button id="boton-devolver" onclick="location.href='proyectos.html#item2'">VOLVER</button>
+        <button id="boton-devolver" onclick="location.href='proyectos.php#item2'">VOLVER</button>
    </div>       
  </body>
 </html>
