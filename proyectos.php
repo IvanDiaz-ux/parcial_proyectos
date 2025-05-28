@@ -13,7 +13,7 @@
           <div class="Proyectos">
 
                <div id="item1">
-                  <input type="radio" name="proyecto" id="proyecto1" onclick="location.href='proyecto1.html'"/>
+                  <input type="radio" name="proyecto" id="proyecto1" onclick="location.href='proyecto1.php'"/>
                   <label class="Proyectos" for="proyecto1">
                  <p id="titulos"><strong> 1.Integracion con IA-RED</strong> </p>
                  <p>IEEE Universidad de la Sabana</p>
@@ -22,7 +22,7 @@
                </div>
 
                <div id="item2">
-                 <input type="radio" name="proyecto" id="proyecto2" onclick="location.href='proyecto2.html'"/>
+                 <input type="radio" name="proyecto" id="proyecto2" onclick="location.href='proyecto2.php'"/>
                  <label class="Proyectos" for="proyecto2">
                  <p id="titulos"><strong>2.Inteligencia Social</strong> </p>
                  <p>Ing. Cristian Amezquita Romero</p>
@@ -31,7 +31,7 @@
                </div>  
 
                <div id="item3">
-                 <input type="radio" name="proyecto" id="proyecto3" onclick="location.href='proyecto3.html'"/>
+                 <input type="radio" name="proyecto" id="proyecto3" onclick="location.href='proyecto3.php'"/>
                  <label class="Proyectos" for="proyecto3">
                  <p id="titulos"><strong>3.Muestra de proyectos Ingenieria Agroecologica</strong> </p>
                  <p>Uniminuto Zipaquira Estudiantes de sexto semestre  Ingenieria Agroecologica</p>
@@ -40,7 +40,7 @@
                </div>
 
                <div id="item4">
-                 <input type="radio" name="proyecto" id="proyecto4" onclick="location.href='proyecto4.html'"/>
+                 <input type="radio" name="proyecto" id="proyecto4" onclick="location.href='proyecto4.php'"/>
                  <label class="Proyectos" for="proyecto4">
                  <p id="titulos"><strong>4.Primer Debate: Las implicaciones de la IA en la ingenieria</strong> </p>
                  <p>Moderador Ing. Juan Felipe Gomez Martinez</p>
@@ -49,7 +49,7 @@
                </div>
 
                <div id="item5">
-                 <input type="radio" name="proyecto" id="proyecto5" onclick="location.href='proyecto5.html'"/>
+                 <input type="radio" name="proyecto" id="proyecto5" onclick="location.href='proyecto5.php'"/>
                  <label class="Proyectos" for="proyecto5">
                  <p id="titulos"><strong>5.Tecnologia IOT</strong><em>Hidro-Sensor</em> </p>
                  <p>Daniel Silva y Juan Martin Pineda  Estudiantes de cuarto semestre Ingenieria de sistemas </p>
@@ -59,7 +59,7 @@
                
                
                <div id="item6">
-                 <input type="radio" name="proyecto" id="proyecto6" onclick="location.href='proyecto6.html'"/>
+                 <input type="radio" name="proyecto" id="proyecto6" onclick="location.href='proyecto6.php'"/>
                  <label class="Proyectos" for="proyecto6">
                  <p id="titulos"><strong>6.Muestra de proyectos Ingenieria de Sistemas    PARKING LOT</strong> </p>
                  <p>Paula Gomez, Carol Ospina  Semillero de investigacion </p>
